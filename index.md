@@ -45,7 +45,7 @@ When working with black and white images, it is important to make sure they are 
 
 ![Discard](images/Discard.PNG)
 
-9. Save the image and click the **Stop playing/recording** in the *Actions* pane.
+9. Save the image and click **Stop playing/recording** in the *Actions* pane.
 
 ![Stop](images/Stop.PNG)
 
