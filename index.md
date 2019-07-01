@@ -49,7 +49,43 @@ When working with black and white images, it is important to make sure they are 
 
 ![Stop](images/Stop.PNG)
 
-#### More Sub Delicious
+10. To use this newly created action on the remaining files, select the *File* tab, choose **Automate** and **Batch**.
+
+![Batch](images/Batch.PNG)
+
+11. In the new pane, select the desired folder of files and click **OK**. It should toggle through the file and convert the images to Grayscale.
+
+12. Close Photoshop when finished.
+
+![Pane](images/Pane.PNG)
+
+#### Creating a Mosaic Dataset
+1. Start a new project in ArcPro and set the file location as the file containing the images you wish to use for the mosaic dataset.
+2. Add a folder connection to this file in the *Catalog* pane.
+3. Select the files you wish to use and add them to the project. 
+4. Right click on the geodatabase and click **Add to project**.
+
+![GDB](images/GDP.PNG)
+
+5. In the *Contents* pane, remove the images. They are now synchronized with the geodatabase.
+6. Click the *Analysis* tab on the toolbar and select **Tools**.
+
+![Tools](images/Tools.PNG)
+
+7. Search for and select **Create Mosaic Dataset** in the new *Geoprocessing* pane. 
+
+![CMD](images/CMD.PNG)
+
+8. Set the output location as the project's geodatabase, give it a name, set the coordinate system to that of the current map and ensure **Product Definition** is set to **None**. Then click **Run**.
+
+![CMD2](images/CMD2.PNG)
+
+9. In the *Catalog* pane, you should find the mosaic dataset by expanding the geodatabase. Right click the mosaic dataset and select **Add Rasters**.
+
+![Add Rasters](images/AddRasters.PNG)
+
+10.
+
 
 ## Conclusion
 
