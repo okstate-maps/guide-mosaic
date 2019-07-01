@@ -65,7 +65,7 @@ When working with black and white images, it is important to make sure they are 
 3. Select the files you wish to use and add them to the project. 
 4. Right click on the geodatabase and click **Add to project**.
 
-![GDB](images/GDP.PNG)
+![GDB](images/GDB.PNG)
 
 5. In the *Contents* pane, remove the images. They are now synchronized with the geodatabase.
 6. Click the *Analysis* tab on the toolbar and select **Tools**.
