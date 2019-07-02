@@ -9,8 +9,8 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Photoshop
 - - Creating a Mosaic Dataset
 - - Building Overviews
-- - Downloading Rasters
 - - Color Balancing
+- - Downloading Rasters
 - Conclusion
 - Further Reading/Resources
 
@@ -124,6 +124,18 @@ When working with black and white images, it is important to make sure they are 
 ![BFP](images/BFP.PNG)
 
 20. Save the project.
+
+#### Color Balancing
+Sometimes, if images come from different sources, they may appear lighter or darker than their neighboring images. This can be rectified to some extent by color balancing.
+
+1. To begin color balancing, add the JPG or TIF of the file that has a good distribution of light and dark colors to the map. This file will later be removed.
+2. Right click the mosaic dataset in the *Catalog* pane, hover over **Enhance** and select **Color Balance**.
+
+![Color Balance](images/ColorBalance.PNG)
+
+3. Set the **Balance Method** to **Histogram** and the **Target Raster** to the JPG or TIF file you just added. Leave **Block Field** empty and click **Run**.
+
+![CB](images/CB.PNG)
 
 ## Conclusion
 
