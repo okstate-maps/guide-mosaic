@@ -10,6 +10,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Creating a Mosaic Dataset
 - - Building Overviews
 - - Color Balancing
+- - Seamlines
 - - Downloading Rasters
 - Conclusion
 - Further Reading/Resources
@@ -136,6 +137,25 @@ Sometimes, if images come from different sources, they may appear lighter or dar
 3. Set the **Balance Method** to **Histogram** and the **Target Raster** to the JPG or TIF file you just added. Leave **Block Field** empty and click **Run**.
 
 ![CB](images/CB.PNG)
+
+4. Under the *Appearance* tab of the toolbar, you can alter the layer's contrast, brightness and gamma until the picture is displayed as desired. 
+
+![Before](images/Before.PNG)
+
+![After](images/After.PNG)
+
+#### Seamlines
+1. To generate seamlines, right click the mosaic in the *Catalog* pane, hover over **Enhance** and select **Generate Seamlines*.
+
+![Gen Seam](images/GenSeam.PNG)
+
+2. Set the **Area of Interest** to **Boundary**.
+
+3. Under **Processing**, the **Request Size** can be altered to make the seamlines more or less precise.
+
+4. Click **Run**.
+
+![GS](images/GS.PNG)
 
 ## Conclusion
 
