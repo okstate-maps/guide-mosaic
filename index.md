@@ -60,7 +60,7 @@ When working with black and white images, it is important to make sure they are 
 ![Pane](images/Pane.PNG)
 
 #### Creating a Mosaic Dataset
-1. Start a new project in ArcPro and set the file location as the file containing the images you wish to use for the mosaic dataset.
+1. Start a new project in ArcPro and set the file location as the file containing the already georeferenced images you wish to use for the mosaic dataset.
 2. Add a folder connection to this file in the *Catalog* pane.
 3. Select the files you wish to use and add them to the project. 
 4. Right click on the geodatabase and click **Add to project**.
