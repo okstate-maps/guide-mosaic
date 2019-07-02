@@ -84,7 +84,41 @@ When working with black and white images, it is important to make sure they are 
 
 ![Add Rasters](images/AddRasters.PNG)
 
-10.
+10. In the *Geoprocessing* pane, make sure the *Raster Type* is set to **Raster Dataset**. Under *Input Data*, click the **Browse** button and select the folder that contains the data you wish to use. Click **Run** to generate rasters.
+
+![Add Rasters](images/AddRasters.PNG)
+
+11. The rasters should generate, but you may have to zoom in to see the images that are being used.
+
+![Rasters](images/Rasters.PNG)
+
+![Zoom](images/Zoom.PNG)
+
+12. In the *Catalog* pane, right click the mosaic dataset, point to **Enhance** and select **Calculate Statistics**.
+
+![Calc Stat](images/CalcStat.PNG)
+
+13. Accept the defaults and click **Run**.
+
+![Calc Stat 2](images/CalcStat2.PNG)
+
+13. Right click the mosaic dataset, point to **Modify** and select **Build Footprints**
+
+![Build FP](images/BuildFP.PNG)
+
+14. Make sure the **Computation Method** is set to **Radiometry**.
+
+15. Set the **Minimum Data Value** and **Maximum Data Value** as desired. The Minimum Data Value is the lowest valid pixel value and the Maximum Data Value is the highest valid pixel valuen. All values not included in this range will be removed.
+
+16. Set the **Approximate Number of Vertices** as desired. This indicates the number of vertices the footpring polygon will include.
+
+17. Set the **Shrink Distance** as desired. This is the distance value that the polygon will be reduced in size. Think of it as "trimming the edges" of the image.
+
+18. The **Skip Overviews** and **Update Boundary** boxes are checked. 
+
+19. Click **Run**.
+
+![BFP](images/BFP.PNG)
 
 
 ## Conclusion
