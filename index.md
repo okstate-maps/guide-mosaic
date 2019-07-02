@@ -8,6 +8,9 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - *[Mosaic Datasets]*
 - - Photoshop
 - - Creating a Mosaic Dataset
+- - Building Overviews
+- - Downloading Rasters
+- - Color Balancing
 - Conclusion
 - Further Reading/Resources
 
@@ -120,6 +123,7 @@ When working with black and white images, it is important to make sure they are 
 
 ![BFP](images/BFP.PNG)
 
+20. Save the project.
 
 ## Conclusion
 
