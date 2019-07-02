@@ -140,6 +140,8 @@ Sometimes, if images come from different sources, they may appear lighter or dar
 
 4. Under the *Appearance* tab of the toolbar, you can alter the layer's contrast, brightness and gamma until the picture is displayed as desired. 
 
+5. Save the project.
+
 #### Seamlines
 1. To generate seamlines, right click the mosaic in the *Catalog* pane, hover over **Enhance** and select **Generate Seamlines*.
 
@@ -152,6 +154,8 @@ Sometimes, if images come from different sources, they may appear lighter or dar
 4. Click **Run**.
 
 ![GS](images/GS.PNG)
+
+5. Save the project.
 
 ## Conclusion
 
