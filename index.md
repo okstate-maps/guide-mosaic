@@ -140,10 +140,6 @@ Sometimes, if images come from different sources, they may appear lighter or dar
 
 4. Under the *Appearance* tab of the toolbar, you can alter the layer's contrast, brightness and gamma until the picture is displayed as desired. 
 
-![Before](images/Before.PNG)
-
-![After](images/After.PNG)
-
 #### Seamlines
 1. To generate seamlines, right click the mosaic in the *Catalog* pane, hover over **Enhance** and select **Generate Seamlines*.
 
