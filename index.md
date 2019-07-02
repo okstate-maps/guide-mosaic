@@ -155,7 +155,16 @@ Sometimes, if images come from different sources, they may appear lighter or dar
 
 ![GS](images/GS.PNG)
 
-5. Save the project.
+5. On the toolbar, under the **Data** tab, click the down arrow under **Sort** and select **Seamline**.
+
+![Sort](images/Sort.PNG)
+
+6. Save the project.
+
+####
+description
+remove everything
+tools
 
 ## Conclusion
 
