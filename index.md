@@ -86,7 +86,7 @@ When working with black and white images, it is important to make sure they are 
 
 10. In the *Geoprocessing* pane, make sure the *Raster Type* is set to **Raster Dataset**. Under *Input Data*, click the **Browse** button and select the folder that contains the data you wish to use. Click **Run** to generate rasters.
 
-![Add Rasters](images/AddRasters.PNG)
+![Add Rasters2](images/AddRasters2.PNG)
 
 11. The rasters should generate, but you may have to zoom in to see the images that are being used.
 
