@@ -12,7 +12,6 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Color Balancing
 - - Seamlines
 - - Tile Generation
-- - Downloading Rasters
 - Conclusion
 - Further Reading/Resources
 
@@ -186,6 +185,7 @@ Note: Tile generation may take some time. Be patient.
 6. Save the project and exit ArcGIS Pro.
 
 ## Conclusion
+Mosaic datasets make working with large quantities of files much easier and more organized. 
 
 ## Further Reading/Resources
 
