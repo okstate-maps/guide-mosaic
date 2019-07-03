@@ -17,7 +17,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - Further Reading/Resources
 
 ## Introduction
-Mosaic datasets allow you to easily work with large collections of raster and image data. These datasets can be created in ArcPro and make data management simple.
+Mosaic datasets allow you to easily work with large collections of raster and image data. These datasets can be created in ArcGIS Pro to make data management simple.
 
 ## *[Mosaic Datasets]*
 
