@@ -11,6 +11,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Building Overviews
 - - Color Balancing
 - - Seamlines
+- - Tile Generation
 - - Downloading Rasters
 - Conclusion
 - Further Reading/Resources
@@ -157,11 +158,16 @@ Sometimes, if images come from different sources, they may appear lighter or dar
 
 5. On the toolbar, under the **Data** tab, click the down arrow under **Sort** and select **Seamline**.
 
-![Sort](images/Sort.PNG)
+![Seamline](images/Seamline.PNG)
 
 6. Save the project.
 
-####
+#### Tile Generation
+1. Before tiles can be generated, a description and tags must be added to the map. To do this, double click **Map** in the *Contents* pane, click **Metadata** and add tags and a description. Click **OK**.
+
+![tags](images/tags.PNG)
+
+2.
 description
 remove everything
 tools
