@@ -58,7 +58,7 @@ When working with black and white images, it is important to make sure they are 
 
 ![Batch](images/Batch.PNG)
 
-11. In the new pane, select the desired folder of files and click **OK**. It should toggle through the files and convert them into Grayscale images.
+11. In the new pane, select the desired folder or files and click **OK**. It should toggle through the files and convert them into Grayscale images.
 
 12. Close Photoshop when finished.
 
