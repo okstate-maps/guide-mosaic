@@ -12,6 +12,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Color Balancing
 - - Seamlines
 - - Tile Generation
+- - Publishing
 - Conclusion
 - Further Reading/Resources
 
@@ -183,6 +184,29 @@ Sometimes, if images come from different sources, they may appear lighter or dar
 Note: Tile generation may take some time. Be patient. 
 
 6. Save the project and exit ArcGIS Pro.
+
+## Publishing
+If you would like to publish the tiles, this can be accomplished in just a few steps.
+
+1. Remove the mosaic dataset from the *Contents* pane. 
+2. In the *Catalog* pane, locate the tile package and add it to the project.
+
+![TPK](images/TPK.PNG)
+
+3. Open the *Geoprocessing* pane and search **Share Package**.
+4. Add information as desired and click **Run**.
+
+![Share](images/Share.PNG)
+
+5. Open a web browser and log on to your ArcGIS accouunt.
+6. Locate the tile package in your files and open it.
+7. Click **Publish** in the right hand corner. 
+
+![Publish](images/Publish.PNG)
+
+8. Update information in the pop up as desired and click **Publish**.
+
+![Publish2](images/Publish2.PNG)
 
 ## Conclusion
 Mosaic datasets make working with large quantities of files much easier and more organized. 
