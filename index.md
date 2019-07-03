@@ -170,10 +170,7 @@ Sometimes, if images come from different sources, they may appear lighter or dar
 
 3. Under the *Analysis* tab of the toolbar, select **Tools**. This will open the *Geoprocessing* pane.
 
-4. Search **Create Map Tile Package** in the *Geoprocessing* pane. 
-
-![tile](images/tile2.PNG)
-
+4. Search **Create Map Tile Package** in the *Geoprocessing* pane.
 5. Choose **Map** as the **Input Map**, adjust the other settings as desired and click **Run**.
 
 ![tile2](images/tile2.PNG)
