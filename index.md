@@ -86,9 +86,6 @@ When working with black and white images, it is important to make sure they are 
 ![CMD2](images/CMD2.PNG)
 
 9. In the *Catalog* pane, you should find the mosaic dataset by expanding the geodatabase. Right click the mosaic dataset and select **Add Rasters**.
-
-![Add Rasters](images/AddRasters.PNG)
-
 10. In the *Geoprocessing* pane, make sure the *Raster Type* is set to **Raster Dataset**. Under *Input Data*, click the **Browse** button and select the folder that contains the data you wish to use. Click **Run** to generate rasters.
 
 ![Add Rasters2](images/AddRasters2.PNG)
